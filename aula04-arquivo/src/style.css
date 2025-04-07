@@ -31,13 +31,11 @@ body {
 }
 
 /* Títulos e textos */
-.titulo{
-  text-align: center;
-}
 h2,
 p {
   color: white;
 }
+
 button {
   padding: 10px 20px;
   margin: 10px;
