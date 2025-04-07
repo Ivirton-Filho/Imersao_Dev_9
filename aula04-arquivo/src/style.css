@@ -35,7 +35,9 @@ h2,
 p {
   color: white;
 }
-
+.titulo{
+  text-align: center;
+}
 button {
   padding: 10px 20px;
   margin: 10px;

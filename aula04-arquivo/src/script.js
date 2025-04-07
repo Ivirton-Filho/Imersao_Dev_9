@@ -9,7 +9,6 @@ let forcaViloes = 0
      personagem[i] = escolhaPersonagem
      forcaDoPersonagem = forcaDoPersonagem + Math.floor(Math.random() * 10) + 1
 }
-
 let viloesPosiveis = [ "Scar", "Malévola", "Úrsula", "Jafar", "Hades", "Gaston", "Capitão Gancho", "Rainha Má", "Cruella de Vil", "Dr. Facilier"]
 
     for (let i = 0; i<3 ; i++) {
