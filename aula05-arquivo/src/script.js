@@ -1,7 +1,16 @@
 // PARTE 1: Lista de perguntas e respostas
+perguntas = [
+  {
+    pergunta:"Qual é a capital do Brasil?",
+    respostas: [
+      {opcao:"Brasilia", correto: true},
+      {opcao: "Rio de Janeiro", correto: false},
+      {opcao: "Recife", correto: false}
+    ]
+  }
+]
 
-
-// PARTE 2: Pegando os elementos do HTML
+// PARTE 2: Pegando os el"ementos do HTML
 const perguntaElemento = document.querySelector(".pergunta");
 const respostasElemento = document.querySelector(".respostas");
 const progressoElemento = document.querySelector(".progresso");
