@@ -17,7 +17,7 @@ body {
 }
 /* Container with the background image */
 .container {
-  background: url('/aula02arquivo0/aula02arquivo0/assets/pedra-papel-tesoura.jpg') no-repeat center center/cover;
+  background: url('assets/pedra-papel-tesoura.jpg') no-repeat center center/cover;
   min-height: 100vh;
   display: flex;
   justify-content: center;

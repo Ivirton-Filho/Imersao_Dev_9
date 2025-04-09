@@ -19,7 +19,7 @@ body {
 
 /* Container with the background image */
 .container {
-  background: url('/aula1-_arquivo-0/assets/1046872-scaled.webp') no-repeat center center/cover;
+  background: url('assets/1046872-scaled.webp') no-repeat center center/cover;
   min-height: 100vh;
   display: flex;
   justify-content: center;

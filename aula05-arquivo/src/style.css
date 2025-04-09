@@ -5,15 +5,12 @@ body {
   font-family: "Gabarito", sans-serif;
   margin: 20px;
 }
-
 .logo {
   text-align: end;
 }
-
 .logo img {
   width: 40%;
 }
-
 /* Caixa principal do jogo */
 .conteudo-jogo {
   background: rgba(0, 0, 0, 0.7);
